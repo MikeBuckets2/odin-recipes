@@ -1,1 +1,1 @@
-# odin-recipes
+The current project was to create a recipes website. I did so by using HTML to create a homepage that linked to 3 different recipes. Each page included a title, an image of the recipe, ingredients, and the steps to follow.
